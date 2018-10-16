@@ -1,1 +1,8 @@
 hii this is first time when i am going to use git.
+git add FirstCommit.txt : commond for add file in stage area.
+git rm --cached FirstCommit.txt : remove file from stage area.
+git checkout --FirstCommit.txt : remove the earlier chengs from the file.
+git config --global user.email "nitpan" : configure the name.
+git config --global user.email "niteshkpandey20may@gmail.com" : configure the email.
+git remote add origin https://github.com/nitpan/Test.git : connect to the remote repo.
+git push -u origin master : push the file local master to remot master.
