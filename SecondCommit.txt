@@ -1,0 +1,2 @@
+after the add and commit create account on git hub .
+then connect to git hub and push all local repo file to remote repo file through the help of command.
